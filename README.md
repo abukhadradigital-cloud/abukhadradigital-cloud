@@ -86,18 +86,25 @@ Includes:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmed-abokhadra&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-abokhadra&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abukhadradigital-cloud&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=abukhadradigital-cloud&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abukhadradigital-cloud&layout=compact&theme=tokyonight" />
 </p>
 
----
+
 
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:abukhadradigital@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ahmedabokhadra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://www.abukhadradigital.com"><img src="https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white"></a>
+  <a href="mailto:abukhadradigital@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedabokhadra">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.abukhadradigital.com">
+    <img src="https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white">
+  </a>
 </p>
 
 ---
